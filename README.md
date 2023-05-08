@@ -1,1 +1,1 @@
-# NorthTorontoUGDemo
+# Welcome to the North Toronto Cloud & DevOps User Group!
